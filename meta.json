@@ -1,0 +1,23 @@
+{
+  "repo": "pinnacle-studio-26-ultimate-video-suite-guide",
+  "product": "Pinnacle Studio 26 Ultimate Video Suite Guide",
+  "kind": "video",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "video",
+  "topics": [
+    "pinnacle-studio-26",
+    "multi-cam-edit",
+    "scorefitter",
+    "disc-menus",
+    "proxy-edit",
+    "pinnacle-setup-failed-fix",
+    "how-to-install-pinnacle",
+    "pinnacle-windows",
+    "pinnacle-desktop-2026",
+    "pinnacle-desktop-package"
+  ],
+  "site": "toolix.me"
+}
