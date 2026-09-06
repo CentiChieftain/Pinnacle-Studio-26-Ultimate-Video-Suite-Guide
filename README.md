@@ -1,1 +1,0 @@
-# eqcutduz
